@@ -1,6 +1,4 @@
-const Discord = require("discord.js");
-const fs = require("fs")
-const moment = require("moment")
+)
 const googleTTS = require('google-tts-api');
 const { registerFont } = require('canvas');
 const settings = require("./config/general/settings.json")
